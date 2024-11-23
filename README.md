@@ -15,7 +15,7 @@
   <h3 align="center">A Zoom Clone</h3>
 
    <div align="center">
-        A Zoom clone built with Next.js, TypeScript, Clerk, getstream, and Tailwind CSS. See the project in action <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Here</b></a>
+        A Zoom clone built with Next.js, TypeScript, Clerk, getstream, and Tailwind CSS. See the project in action <a href="https://callup-eight.vercel.app" target="_blank"><b>Here</b></a>
     </div>
 </div>
 
