@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
+    <a href="#">
       <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
     </a>
   
@@ -25,8 +25,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Assets & Code](#snippets)
-6. 🚀 [More](#more)
+5. 🔗 [links](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
